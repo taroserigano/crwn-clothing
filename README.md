@@ -2,6 +2,8 @@
 
 Live Demo -https://e-commerce-nine.vercel.app/
 
+![crwn-shop](src/assets/pic1.jpg)
+
 # Features :fire:
 
 - [x] Browse Categories
