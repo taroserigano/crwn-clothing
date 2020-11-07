@@ -24,8 +24,8 @@ Live Demo -https://e-commerce-nine.vercel.app/
 
 ### Shopping Menu :moneybag:
 
-![crwn-shop](screenshots/crwn-1.png)
+![crwn-shop](src/assets/pic2.jpg)
 
 ### Log In Menu :lock:
 
-![crwn-login](screenshots/crwn-2.png)
+![crwn-login](src/assets/pic3.jpg)
