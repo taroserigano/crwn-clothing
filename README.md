@@ -1,4 +1,6 @@
-Crwn-clothing is an e-commerce website built with React. Demo -
+# Crwn-clothing is an e-commerce website built with React. 
+
+Live Demo -https://e-commerce-nine.vercel.app/
 
 # Features :fire:
 
