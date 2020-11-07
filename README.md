@@ -1,4 +1,4 @@
-# crwn-clothing
+# Crwn-clothing (E-Commerce)
 
 Crwn-clothing is an e-commerce website built with React. Demo - CRWN-Clothing
 
