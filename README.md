@@ -26,6 +26,6 @@ Live Demo -https://e-commerce-nine.vercel.app/
 
 ![crwn-shop](src/assets/pic22.jpg)
 
-### Log In Menu :lock:
+### Payment Menu :lock:
 
 ![crwn-login](src/assets/pic3.jpg)
