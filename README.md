@@ -1,6 +1,6 @@
 # Crwn-clothing is an e-commerce website built with React-Redux. 
 
-Live Demo -https://e-commerce-nine.vercel.app/
+Try the Live Demo -https://e-commerce-nine.vercel.app/
 
 ![crwn-shop](src/assets/pic1.jpg)
 
